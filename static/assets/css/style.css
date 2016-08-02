@@ -307,6 +307,18 @@ body .container {
   color: #5da4d9;
   text-align: left;
 }
+
+ul.custom-skills-list, ul.custom-skills-list li {
+  list-style-type: circle;
+}
+ul.custom-skills-list li {
+  padding: 4px;
+}
+ul.custom-skills-list li a {
+  color: #5da4d9;
+}
+
+
 /* style for
 
 ***** Portfolio website  *****
